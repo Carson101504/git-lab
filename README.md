@@ -1,5 +1,4 @@
 Carson Mackey
 GitHub User: Carson101504
-
-
-words
+Email Address: cm515122@ohio.edu
+Answers recorded in the answers.md file.
