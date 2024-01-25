@@ -59,5 +59,29 @@ Date:   Wed Jan 24 17:08:49 2024 -0500
     Initial commit
 
 
-Answer 9: words
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
 
+nothing to commit, working tree clean
+
+
+Answer 10: No, my online changes were were NOT reflected in my local copy.
+
+
+Answer 11: 
+! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Carson101504/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Answer 12: YES, my online changes were reflected in my local copy.
+
+
+Answer 13: .  ..  .git  .gitignore  README.md
+
+done
